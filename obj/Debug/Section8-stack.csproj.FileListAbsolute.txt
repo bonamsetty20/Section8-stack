@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-stack\Section8-stack\bin\Debug\Section8-stack.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-stack\Section8-stack\bin\Debug\Section8-stack.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-stack\Section8-stack\bin\Debug\Section8-stack.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-stack\Section8-stack\obj\Debug\Section8-stack.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-stack\Section8-stack\obj\Debug\Section8-stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-stack\Section8-stack\obj\Debug\Section8-stack.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-stack\Section8-stack\obj\Debug\Section8-stack.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-stack\Section8-stack\obj\Debug\Section8-stack.pdb
